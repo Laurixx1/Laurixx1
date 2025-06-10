@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Laurixx1
-- 👀 I’m interested in Programming language and digital content
-- 🌱 I’m currently learning about Python
+- 👀 I’m interested in Audiovisual Communication, Programming language, and digital content
+- 🌱 I’m currently learning about UX/UI, and I have some knowledge in HTML, CSS, and JavaScript
 - 😄 Pronouns: She
 
 <!---
